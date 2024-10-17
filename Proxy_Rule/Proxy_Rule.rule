@@ -21414,7 +21414,6 @@
 .podictionary.com
 .podium.ac.uk
 .poe.com
-.poe.com .gmauthority.com .pp.ua .south-plus.net .spring-plus.net .level-plus.net .hicairo.com
 .poecdn.net
 .pogo.com
 .pogobeta.com
@@ -30905,9 +30904,6 @@ DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,wikileaks
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,youtube
-Global.list、Global_Domain.list 共同使用。
-Global_Resolve.list、Global_Domain.list 共同使用。
-Global_Resolve.list与Global.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
 IP-CIDR,1.201.0.0/24,no-resolve
 IP-CIDR,1.37.35.6/32,no-resolve
 IP-CIDR,101.100.179.242/32,no-resolve
@@ -31934,7 +31930,6 @@ IP-CIDR6,2620:120:e000::/40,no-resolve
 IP-CIDR6,2a00:86c0::/32,no-resolve
 IP-CIDR6,2a03:5640::/32,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-Loon   Global规则由《某某某自动打造》自动生成。
 URL-REGEX,^https?:\/\/www\.amazon\.com\/(Amazon-Video|gp\/video)\/
 USER-AGENT,*Spotify*
 USER-AGENT,*YouTubeMusic*
@@ -32131,6 +32126,3 @@ widgets.stripst.com
 wrds-www.wharton.upenn.edu
 www-cdn.icloud.com.akadns.net
 ztedevices.com
-文件区别
-规则说明
-配置建议
