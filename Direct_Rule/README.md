@@ -7,12 +7,8 @@ Loon   国内网站/IP合集规则由《某某某自动打造》自动生成。
 实验性规则，效果待观察，请谨慎评估后使用。
 
 文件区别
-ChinaMax_Resolve.list与ChinaMax.list的区别仅在于后者IP-CIDR(6)类型带no-resolve。
-ChinaMax.list与ChinaMax_No_IPv6.list的区别仅在于后者不带IPv6类型的规则，适用纯IPv4网络。
-ChinaMax_Resolve.list与ChinaMax_No_IPv6_Resolve.list的区别仅在于后者不带IPv6类型的规则，且不带no-resolve，适用纯IPv4网络。
+配置建议
+此规则为大合并,
 
 配置建议
-ChinaMax.list、ChinaMax_Domain.list 共同使用。
-ChinaMax_Resolve.list、ChinaMax_Domain.list 共同使用。
-ChinaMax_No_IPv6.list、ChinaMax_Domain.list 共同使用。
-ChinaMax_No_IPv6_Resolve.list、ChinaMax_Domain.list 共同使用。
+此规则为大合并,
